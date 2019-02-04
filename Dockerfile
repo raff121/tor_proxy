@@ -1,7 +1,7 @@
 FROM alpine:3.8
 
 LABEL maintainer="raff121"
-LABEL name="tor-socks-proxy"
+LABEL name="tor_proxy"
 LABEL version="latest"
 
 RUN echo '@edge http://dl-cdn.alpinelinux.org/alpine/edge/community' >> /etc/apk/repositories && \
