@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-LABEL maintainer="Peter Dave Hello <hsu@peterdavehello.org>"
+LABEL maintainer="raff121"
 LABEL name="tor-socks-proxy"
 LABEL version="latest"
 
